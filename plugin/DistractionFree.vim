@@ -67,7 +67,7 @@ endfunction
 let g:fullscreen_colorscheme = "iawriter"
 let g:fullscreen_font = "Cousine:h14"
 let g:normal_colorscheme = "solarized"
-let g:normal_font = \""Droid\ Sans\ Mono:h11\""
+let g:normal_font = "\"Droid\ Sans\ Mono:h11\""
 
 :map <F4> :call ToggleDistractionFreeWriting()<CR>
 
